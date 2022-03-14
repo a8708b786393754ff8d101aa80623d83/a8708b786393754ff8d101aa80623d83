@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6888b&label=Profile%20views&color=0e75b6&style=flat" alt="a6888b" /> </p>
 
-- 🔭 I’m currently working on **stand-alone pentesting tools**
+- 🔭 I’m currently working on **stand-alone pentesting tools** (AB_tool)
 
 - 📫 How to reach me **ayoubbrahim68@gmail.com**
 
