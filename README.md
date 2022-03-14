@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Salut 👋, je suis Ayoub</h1>
+<h3 align="center">Un passionné de programmation de logiciels et développeur backend</h3>
 
-<!--
-**a6888b/a6888b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src ="https://komarev.com/ghpvc/?username=a688b&label=Profile%20views&color=0e75b6&style=flat" alt="a688b" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 Je travaille actuellement sur un ** pentesting autonome outils**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Comment me joindre **ayoubbrahim68@gmail.com**
+
+<h3 align="left">Contactez-moi :</h3>
+<p align="left">
+<a href="https:/ /linkedin.com/in/ayoub-brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-brahim" height="30" width="40" />< /a>
+<a href="https://discord.gg/#1786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- générateur/maître/src/images/icons/Social/discord.svg" alt="#1786" height="30" width="40" /></a>
+</p>
+
+<h3 align="left"> Langues et outils :</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www. vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width=" 40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target=" _blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height=" 40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href= "https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original .svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/ > </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman. com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height= "40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium. dev"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width=" 40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/ logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/ symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/ symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=a688b&show_icons=true&locale=en" alt="a688b" /></p>
