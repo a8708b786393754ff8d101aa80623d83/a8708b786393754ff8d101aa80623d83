@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **stand-alone pentesting tools** (AB_tools)
 
-- 📫 How to reach me **ayoubbrahim68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
