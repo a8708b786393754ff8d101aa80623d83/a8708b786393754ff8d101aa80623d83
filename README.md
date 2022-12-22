@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">A passionate about software programming and backend developer</h3>
+<h3 align="center">A passionate about software programming, backend developer and cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6888b&label=Profile%20views&color=0e75b6&style=flat" alt="a6888b" /> </p>
 
-- 🔭 I’m currently working on **stand-alone pentesting tools** (AB_tools)
-
+- 🔭 I’m currently working on the cybersecurity project 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
