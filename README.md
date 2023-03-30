@@ -18,7 +18,8 @@ I’m currently working on the cybersecurity project
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### TryHackMe Stats:
+<img src="https://tryhackme-badges.s3.amazonaws.com/kryvine.png" alt="TryHackMe">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=a8708b786393754ff8d101aa80623d83&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
